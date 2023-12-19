@@ -1,37 +1,27 @@
-### Hi there 👋
+First and foremost, thank you for taking the time to explore my professional journey. 🙏
 
-🤗 First of all, thank you for taking your time out to pay me a visit. 🙏
+My passion for technology and innovation has led me on an exciting path in the world of IT. Computers have always been my playground, and DevOps is what I started on a professional aspect, where I've been fascinated by how containers 🐋 and Kubernetes ☸️ are revolutionizing the industry. Automation, an ever-evolving art, has been a constant source of joy for me.
 
-🖥️ Computational Neuroscience is where my keen interest lies. Right now, I'm just building the basement. My current forte is DevOps, in which I have loved the way 🐋Containers and ☸️ Kubernetes have changed the game. Automation is something I have always enjoyed! 
+I have a profound interest in AI and Machine Learning, where I see the boundless potential to shape the future by crafting predictive models, harnessing the power of data, and continually exploring the AI landscape to make the world a smarter, more efficient place. 🤖 This has driven me to pursue an MSc in Computer Science, aiming to expand my knowledge and expertise.
 
-✅ I believe the ability to think is what matters the most in an individual's development. So, I want to bring awareness and make all the minds (especially younger) THINK! 🧠
+My interests are as diverse as my skill set. I take pride in crafting Machine Learning models to contribute to a better world. Here are some of the skills I've acquired:
 
-⭕pensource is something that am exploring, and I strongly believe in the community 
+➡️ Infrastructure+Tools: Terraform, Ansible, VMWare, Arista, NSXT 🏗️
+➡️ Cloud: AWS, Azure, GCP ☁️
+➡️ Languages: Python, Shell Scripting, Haskell 👨‍💻
+➡️ Web Development: HTML/CSS and WordPress Development 🕸️
+➡️ Analytics: Data Analytics (Python libraries), Google Analytics, Power BI 📊
+➡️ Machine Learning Algorithms - Knowing when to apply the right one! ⚙️
+➡️ Orchestration: Mastering Docker Containers and Kubernetes Orchestration 🐳 + ☸️
+➡️ CI/CD: Proficiency in GitLab CI/CD and GitHub Actions♾️
+➡️ SEO and Keyword Research 🕵
 
-💻 I love to develop Machine Learning models to make our world a better place; hence I have learned (and keep improving) the following skills:
+👁️ A couple of personal views:
 
-➪ Python and Java ⌨️  
-➪ HTML/CSS and WordPress Development 🕸️  
-➪ Data Analytics (🐍 libraries), Google Analytics, Power BI 📊  
-➪ Machine Learning Algorithms ~ when to use what! ⚙️  
-➪ Docker Containers and Kubernetes Orchestration 🐳 + ☸️  
-➪ Git, GitHub, Terraform... (more to come)  
-➪ Search Engine Optimization and Keyword Research 🕵  
+I believe that the ability to think critically is paramount for personal growth and development. As an advocate for fostering a culture of curiosity, especially among the younger generation, I'm dedicated to encouraging minds to think deeply and creatively. 🧠
 
-And a highly concentrated interest to learn, teach, and develop every day! This is what motivates me. 😇
+Open source is more than just a concept for me; it's a philosophy I actively embrace. I'm a strong advocate for the collaborative spirit of the open-source community. 💪
 
-👏 If you have read till here, I really would like to connect with you and have a cup of tea! ☕ 
+If you've made it this far, I'd love to connect with you and share thoughts over a virtual cup of tea (☕) or chat about exciting opportunities. 😊
 
-😊 Let us be grateful for everything! Good luck 👋
-<!--
-**nijdarshan/nijdarshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working to help organisations automate their infrastrcuture 
-- 🌱 I’m currently learning to tech the Mighty Machines!!!
-- 👯 I’m looking to collaborate on Machine Learning and/or DevOps projects
-- 🤔 I’m looking for help with Opensource, cause I'm highly motivated by the community
-- 💬 Ask me about: DevOps, Artificial Intelligence, Sports and Volunteering
-- 📫 How to reach me: darshannij@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love my Mondays!
--->
+Let's remember to be grateful for all the experiences that come our way. Wishing you the best of luck in your journey! 👋
