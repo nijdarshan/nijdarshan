@@ -1,4 +1,4 @@
-<<Loading>>
+`<Loading>`
 
 👁️ A couple of personal views:
 
