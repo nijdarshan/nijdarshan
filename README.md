@@ -1,20 +1,4 @@
-First and foremost, thank you for taking the time to explore my professional journey. 🙏
-
-My passion for technology and innovation has led me on an exciting path in the world of IT. Computers have always been my playground, and DevOps is what I started on a professional aspect, where I've been fascinated by how containers 🐋 and Kubernetes ☸️ are revolutionizing the industry. Automation, an ever-evolving art, has been a constant source of joy for me.
-
-I have a profound interest in AI and Machine Learning, where I see the boundless potential to shape the future by crafting predictive models, harnessing the power of data, and continually exploring the AI landscape to make the world a smarter, more efficient place. 🤖 This has driven me to pursue an MSc in Computer Science, aiming to expand my knowledge and expertise.
-
-My interests are as diverse as my skill set. I take pride in crafting Machine Learning models to contribute to a better world. Here are some of the skills I've acquired:
-
-➡️ Infrastructure+Tools: Terraform, Ansible, VMWare, Arista, NSXT 🏗️
-➡️ Cloud: AWS, Azure, GCP ☁️
-➡️ Languages: Python, Shell Scripting, Haskell 👨‍💻
-➡️ Web Development: HTML/CSS and WordPress Development 🕸️
-➡️ Analytics: Data Analytics (Python libraries), Google Analytics, Power BI 📊
-➡️ Machine Learning Algorithms - Knowing when to apply the right one! ⚙️
-➡️ Orchestration: Mastering Docker Containers and Kubernetes Orchestration 🐳 + ☸️
-➡️ CI/CD: Proficiency in GitLab CI/CD and GitHub Actions♾️
-➡️ SEO and Keyword Research 🕵
+<Loading>
 
 👁️ A couple of personal views:
 
